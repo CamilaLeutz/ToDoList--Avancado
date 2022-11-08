@@ -156,5 +156,11 @@ select {
 }
 
 .done{
-    background-color: rgb(242, 212, 212);
+    background-color: rgb(239, 190, 190);
+}
+.done h3 {
+  color: rgb(144, 8, 8);
+  text-decoration: line-through;
+  font-style: italic;
+  font-weight: bold;
 }
